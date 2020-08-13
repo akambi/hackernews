@@ -1,0 +1,27 @@
+.SearchHeader {
+  padding: 10px;
+  z-index: 1;
+  background: red;
+  width: 100%;
+  top: 0px;
+}
+
+.SearchHeader_container {
+  position: relative;
+  display: inline-block;
+  width: calc(100% - 280px);
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.SearchHeader_input {
+  border-radius: 0;
+  border: none;
+  height: 42px;
+  width: 100%;
+  box-shadow: none;
+  padding: 16px 144px 16px 54px;
+  font-weight: 300;
+  background-color: #fff;
+  color: rgba(0,0,0,.75);
+}

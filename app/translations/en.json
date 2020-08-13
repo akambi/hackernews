@@ -1,0 +1,10 @@
+{
+  "hackernews.components.Footer.author.message": "Made with love by {author}.",
+  "hackernews.components.Footer.license.message": "This project is licensed under the MIT license.",
+  "hackernews.components.Header.home": "Home",
+  "hackernews.containers.HomePage.start_project.header": "Hacker News",
+  "hackernews.containers.HomePage.search_story.message": "Search Hacker News",
+  "hackernews.containers.LocaleToggle.de": "fr",
+  "hackernews.containers.LocaleToggle.en": "en",
+  "hackernews.containers.NotFoundPage.header": "Page not found."
+}
